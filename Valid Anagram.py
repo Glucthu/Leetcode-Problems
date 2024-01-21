@@ -21,3 +21,10 @@ class Solution:
         return True
 
 
+''' Python specific solution
+
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        return Counter(s) == Counter(t)
+
+'''
