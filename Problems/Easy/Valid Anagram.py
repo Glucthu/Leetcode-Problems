@@ -21,7 +21,7 @@ class Solution:
         return True
 
 
-''' Python specific solution
+''' Alternative solution
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
